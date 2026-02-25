@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for  Engine.
+Main entry point for Flex Engine.
 """
 
 from core.engine import DynamicEngine
