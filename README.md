@@ -11,7 +11,7 @@ Main entry point for FlexCore Engine.
 """
 
 from core.engine import DynamicEngine
-from core.domains import Domain-
+from core.domains import Domain-Router
 
 
 def run():
