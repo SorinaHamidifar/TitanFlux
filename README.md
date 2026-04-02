@@ -10,7 +10,7 @@
 Main entry point for FlexCore Engine.
 """
 
-from core.engine import dynamics
+from core.engine import dynamic
 from core.domains import DomainRouter
 
 
