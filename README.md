@@ -67,7 +67,7 @@ Domain routing layer for multi-project adaptability.
 """
 
 class DomainRouter:
-    """Routes tasks to different project domains ."""
+    """Routes tasks to different project domains dyn."""
 
     def __init__(self, engine):
         self.engine = engine
