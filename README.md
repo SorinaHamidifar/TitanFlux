@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
 # ---------- core/engine.py ----------
 """
-Dynamic execution engine optimized for reuse performance and flexibility.
+Dynamic execution engine optimized for reused performance and flexibility.
 """
 
 import time
