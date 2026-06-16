@@ -30,7 +30,7 @@ def run():
 
 
 if __name__ == "__main__":
-    run() Flexibi
+    run() Flex
 
 
 # ---------- core/engine.py ----------
