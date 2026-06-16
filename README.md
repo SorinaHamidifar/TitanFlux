@@ -30,7 +30,7 @@ def run():
 
 
 if __name__ == "__main__":
-    run() Flexibility
+    run() Flexibi
 
 
 # ---------- core/engine.py ----------
