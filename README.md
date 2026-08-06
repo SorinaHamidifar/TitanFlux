@@ -2,7 +2,7 @@
 # Project: FlexCore Engine
 # Description:
 # A dynamic engine for strong, flexible, and high-performance
-# development across multiple project domain
+# development across multiple project domains.
 # ================================
 
 # ---------- main.py ----------
