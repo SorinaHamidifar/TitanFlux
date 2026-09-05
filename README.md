@@ -1,5 +1,5 @@
 # ================================
-# Project: FlexCore Engine for strong, flexible, and high-
+# Project: FlexCore Engine for strong, flexible, and 
 # Description:
 # A dynamic engine for strong, flexible, and high-performance
 # development across multiple project domains.
