@@ -1,5 +1,5 @@
 # ================================
-# Project: FlexCore Engine Activat
+# Project: FlexCore Engine Activate
 # Description:
 # A dynamic engine for strong, flexible, and high-performance
 # development across multiple project domains.
